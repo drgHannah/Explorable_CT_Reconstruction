@@ -9,6 +9,7 @@ This repository is the official implementation of Explorable Data Consistent CT 
 - **Dependencies** 
   - install PyTorch (e.g. version 1.12.1+cu116) and Torchvision (e.g. version0.13.1+cu116) 
   - install requirements by: `pip install -r requirements`
+  - install https://github.com/drgHannah/Radon-Transformation
 - **Data** 
   - please download the data from https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 - **Training and Evaluation** 
