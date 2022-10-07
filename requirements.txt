@@ -1,0 +1,7 @@
+matplotlib==3.6.0
+numpy==1.23.3
+pylidc==0.2.3
+setuptools==44.0.0
+torch==1.12.1+cu116
+torchvision==0.13.1+cu116
+tqdm==4.64.1
