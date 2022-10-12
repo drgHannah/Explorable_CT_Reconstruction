@@ -4,6 +4,8 @@ This repository is the official implementation of Explorable Data Consistent CT 
 
 ![Here comes the image](./reconstructions.png?raw=true "")
 
+Computed Tomography (CT) is an indispensable tool for the detection and assessment of various medical conditions. This, however, comes at the cost of the health risks entailed in the usage of ionizing X-ray radiation. Using sparse-view CT aims to minimize these risks, as well as to reduce scan times, by capturing fewer X-ray projections, which correspond to fewer projection angles. However, the lack of sufficient projections may introduce significant ambiguity when solving the ill-posed inverse CT reconstruction problem, which may hinder the medical interpretation of the results. We propose a method for resolving these ambiguities, by conditioning image reconstruction on different possible semantic meanings. We demonstrate our method on the task of identifying malignant lung nodules in chest CT. To this end, we exploit a pre-trained malignancy classifier for producing an array of possible reconstructions corresponding to different malignancy levels, rather than outputting a single image corresponding to an arbitrary medical interpretation. The data-consistency of all our method reconstructions then facilitates performing a reliable and informed diagnosis (e.g. by a medical doctor). 
+
 ## Get Started
 
 - **Dependencies** 
