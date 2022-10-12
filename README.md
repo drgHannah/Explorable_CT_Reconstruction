@@ -13,7 +13,7 @@ This repository is the official implementation of Explorable Data Consistent CT 
 - **Data** 
   - please download the data from https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 - **Training and Evaluation** 
-	-   for some tests on pretrained networks, save [this networks](https://drive.google.com/drive/folders/1WQ_8HSFYS0TAWtHEjCmnh1Tg5avQZcIv?usp=sharing)  as *network_100a.pt* into the project folder
+	-   for some tests on pretrained networks, save [this networks](https://drive.google.com/drive/folders/16pwCuat4tby_O3k2q2JDf79aYd6-cTGb?usp=sharing)  as *network_100a.pt* into the project folder
   - for the optimization, please have a look at  `explorable_reconstruction.ipynb` 
 
 
