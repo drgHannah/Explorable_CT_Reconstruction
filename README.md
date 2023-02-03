@@ -1,6 +1,6 @@
 
 # Explorable Data Consistent CT Reconstruction
-This repository is the official implementation of Explorable Data Consistent CT Reconstruction, to appear in The 33rd British Machine Vision Conference, 21st - 24th November 2022, London, UK.
+This repository is the official implementation of the paper [Explorable Data Consistent CT Reconstruction](https://bmvc2022.mpi-inf.mpg.de/0746.pdf) (British Machine Vision Conference, 2022).
 
 ![Here comes the image](./reconstructions.png?raw=true "")
 
